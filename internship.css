@@ -1,0 +1,108 @@
+.header {
+   background-image: url("images/104572907-earny.530x298.jpg");
+   background-repeat: no-repeat;
+   background-size: auto;
+   padding-top: 3%;
+   padding-bottom: 7%;
+
+   
+}
+.hit-the-floor {
+  color: rgb(255, 255, 255);
+  font-size: 3.5em;
+  font-weight: bold;
+  font-family: Helvetica;
+  text-shadow: 0 1px 0 #0077A2, 0 2px 0 #0077A2, 0 3px 0#0077A2, 0 4px 0 #0077A2,
+   0 5px 0 #0077A2, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 
+   0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2),
+    0 20px 20px rgba(0,0,0,.15);
+  
+    text-align:center
+  }
+  
+  
+  
+
+
+
+
+article {
+padding: 3%;
+padding-block-start: 2%;
+  background-color: #0077A2;
+
+
+
+  padding-bottom: 9%
+
+}
+
+body {
+ 
+  
+  background-color:#FFBD45;
+}
+footer {
+
+  background:rgb(0, 0, 0);
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom:4%
+
+}
+.foot{
+  padding-left: 44%
+}
+
+
+
+
+  
+
+
+body {
+  width: 100%;
+  height: 80%;
+  
+  background-color:#FFBD45
+}
+
+
+
+    
+  
+
+
+
+  
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.9
+}
+
+
+
+.project
+{
+  background-color: #5acfec;
+  background-size: 180%
+}

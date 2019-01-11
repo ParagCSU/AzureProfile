@@ -1,0 +1,104 @@
+body{
+  background-color: #FFBD45;
+  background-image: url("images/icon.jpg");
+  background-size:40%;
+  background-position:right;
+  background-repeat: no-repeat
+
+}
+.card {
+  box-shadow: 0 20px 30px 0 rgb(9, 0, 29);
+  max-width: 290px;
+  max-height: 180px;
+
+ 
+}
+
+.title {
+  color: rgb(201, 22, 22);
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 80px;
+  color: rgb(231, 199, 16);
+  background-color: rgb(5, 81, 223);
+  background-image: url("images/Aboutme.jpg");
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 20px;
+ 
+}
+
+a {
+  text-decoration: none;
+  font-size: 40px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7
+}
+
+.linkedin {
+  box-shadow: 0 20px 30px 0 rgba(8, 0, 0, 0.849);
+  max-width: 360px;
+  max-height: 90px;
+  margin:auto;
+  text-align: center
+}
+button2 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 280px;
+  color: rgb(253, 253, 253);
+  
+  background-image: url("images/linkedin-logo.png");
+  background-repeat: no-repeat;
+  background-size: 50%;
+
+  text-align: center;
+  cursor: pointer;
+  width: 45%;
+  font-size: 20px
+}
+
+
+button2:hover, a:hover {
+  opacity: 0.7
+}
+
+
+.gmail {
+  box-shadow: 0 20px 30px 0 rgba(8, 0, 0, 0.849);
+  max-width: 210px;
+  max-height:157px;
+ 
+  text-align: center
+}
+button3 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 280px;
+  color: rgb(253, 253, 253);
+  
+  background-image: url("images/gmail.PNG");
+  background-repeat: no-repeat;
+  background-size: 32%;
+
+  text-align: center;
+  cursor: pointer;
+  width: 45%;
+  font-size: 20px
+}
+
+
+button3:hover, a:hover {
+  opacity: 0.7
+}
